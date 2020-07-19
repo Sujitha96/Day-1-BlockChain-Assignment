@@ -1,0 +1,51 @@
+
+Assignment 1:
+
+1.What is your understanding of Blockchain?
+
+Ans.Blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, a record of that transaction is added to every 
+
+participant’s ledger. The decentralised database managed by multiple participants is known as Distributed Ledger Technology.
+
+2.what is the core problem blockchain trying to solve?
+
+Ans. Blockchain addresses the problem of Data Security and Trust by Making the Ledger Public. Hardware and software errors are not the only data security issue.
+
+The blockchain has to also protect itself from willful fraud and theft.Two blockchain design features help in this effort.
+
+
+
+3.What are the few features which Blockchain will give you?
+
+Ans.
+
+A.Cannot be corrupted
+B.Decentrailzed technology
+C.Enhanced security
+D.Distributed Ledgers
+E.Consensus
+F.Faster Settlement
+
+
+4.What all things does a block contain?
+
+Ans.Each block contains among other things,the current a record of some or all recent transactions, and a reference to the block that came immediately before it.
+It also contains an answer to a difficult to solve mathematical puzzle the answer to which is unique to each block. New blocks cannot be submitted to the network without
+the correct answer the process of mining is essentially the process of competing to be the next to find the answer that "solves" the current block.
+The mathematical problem in each block is extremely difficult to solve, but once a valid solution is found, it is very easy for the rest of the network to confirm that 
+the solution is correct.There are multiple valid solutions for any given block only one of the solutions needs to be found for the block to be solved.
+
+
+
+
+5.How is the verifiability of blockchain is been attained?
+
+Ans.Verifiability in blockchain is a consensus mechanism based process.Since blockchain acts as a decentralized ledger with multiple nodes in the network, the transaction 
+
+must be verified by all nodes.The transactions in a blockchain are referred to by their hash.
+
+
+
+
